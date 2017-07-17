@@ -48,33 +48,33 @@
               "font-size": "36px"
             },
             ".navbar-toggler": {
-              "color": "#a4bcb6"
+              "color": "#3d8eb9"
             },
             ".link, .dropdown-item": {
-              "color": "#a4bcb6",
+              "color": "#3d8eb9",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#062f04"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#0a5007!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#0c5e08"
             },
             ".bg-color.transparent .link": {
-              "color": "#a4bcb6",
+              "color": "#3d8eb9",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -94,26 +94,26 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#a4bcb6"
+              "background-color": "#3d8eb9"
             }
           },
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#282828",
-            "fontSize": "1.1",
+            "bgColor": "#0c5e08",
+            "fontSize": "1.05",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#a4bcb6",
+            "fontColor": "#3d8eb9",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": true
           },
           "logo": {
@@ -253,33 +253,33 @@
               "font-size": "36px"
             },
             ".navbar-toggler": {
-              "color": "#a4bcb6"
+              "color": "#3d8eb9"
             },
             ".link, .dropdown-item": {
-              "color": "#a4bcb6",
+              "color": "#3d8eb9",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#062f04"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#0a5007!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#0c5e08"
             },
             ".bg-color.transparent .link": {
-              "color": "#a4bcb6",
+              "color": "#3d8eb9",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -299,26 +299,26 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#a4bcb6"
+              "background-color": "#3d8eb9"
             }
           },
           "_name": "menu",
           "_anchor": "menu-2",
           "_params": {
-            "bgColor": "#282828",
-            "fontSize": "1.1",
+            "bgColor": "#0c5e08",
+            "fontSize": "1.05",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "css": "'Roboto Condensed', sans-serif"
             },
-            "fontColor": "#a4bcb6",
+            "fontColor": "#3d8eb9",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": true
           },
           "logo": {
