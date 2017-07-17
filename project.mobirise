@@ -1,0 +1,368 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "Zcrypt.live",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#3d8eb9",
+        "secondaryColor": "#ffffff",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Oswald",
+        "subtitleFont": "Ubuntu",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 5,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Zcrypt.live",
+        "meta_descr": " <meta name=\"google-site-verification\" content=\"0l4ziEc8RDfUz47zT6I-ntBgdzeUophWu-y9iJZ4daQ\" />\n    <meta charset=\"utf-8\">\n    <meta property=\"og:url\" content=\"http://zcrypt.live\"/>\n    <meta property=\"og:title\" content=\"Zcrypt Mining Pool for Hush, Zcash, Zencash, and Zclassic\"/>\n    <meta property=\"og:image\" content=\"http://zcrypt.live/static/download.png\"/>\n    <meta property=\"og:description\" content=\"Mining Pool open for ZEC, ZCL, ZEN,  and HUSH.\"\n    <meta property=\"fb:app_id\" content=\"966242223397117\" />\n",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            ".navbar-toggler": {
+              "color": "#a4bcb6"
+            },
+            ".link, .dropdown-item": {
+              "color": "#a4bcb6",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#a4bcb6",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#a4bcb6"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1.1",
+            "fontName": {
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
+            },
+            "fontColor": "#a4bcb6",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/load.gif",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://zcrypt.live",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://zcrypt.live\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zcrypt.live (old version)</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/getting_started\" aria-expanded=\"false\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>Getting started</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/stats\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Zcrypt Global Stats</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/workers\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Workers Stats</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/payments\" aria-expanded=\"false\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>Payments</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/api\" aria-expanded=\"false\"><span class=\"mbri-code mbr-iconfont mbr-iconfont-btn\"></span>Json  API</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\" &lt;meta name=&quot;google-site-verification&quot; content=&quot;0l4ziEc8RDfUz47zT6I-ntBgdzeUophWu-y9iJZ4daQ&quot; /&gt;     &lt;meta charset=&quot;utf-8&quot;&gt;     &lt;meta property=&quot;og:url&quot; content=&quot;http://zcrypt.live&quot;/&gt;     &lt;meta property=&quot;og:title&quot; content=&quot;Zcrypt Mining Pool&quot;/&gt;     &lt;meta property=&quot;og:image&quot; content=&quot;http://zcrypt.live/static/download.png&quot;/&gt;     &lt;meta property=&quot;og:description&quot; content=&quot;Mining Pool open for ZEC, ZCL, ZEN, KMD and HUSH.&quot;     &lt;meta property=&quot;fb:app_id&quot; content=&quot;966242223397117&quot; /&gt;\">Worker Stats</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright Zcrypt.live",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/rh2-Uy6-VYo?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Welcome &nbsp;to Zcrypt.live",
+          "text": "<b>0.75% </b>pool maintenance fee<b>-Starting September 1st</b><br><br><b>No registration required.</b> Your wallet address is your ID.<br><br><b>Secure your miners. SSL ports available for each coin.</b><br><br><b>PROP share payouts</b>...<i>The longer you stay the better it pays</i>..Pool hoopers don't Gain.<br><br><b>Balances of 0.1+ tiggered every 60 minutes.</b> <br><br><b>On average block payout occur around 140 confirms.</b> 1<i>00 confirms to protect from orphaned blocks and double spending attacks. 30 confirms for sheilding to Secure payout is processed through z_address + about 10 confirms for payout timer to trigger payout.</i><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://bitcointalk.org/index.php?topic=1670733.0\" data-toolbar=\"-mbrBtnMove\">Claymore 12.5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://bitcointalk.org/index.php?topic=1707546.0\" data-toolbar=\"-mbrBtnMove\">EWBF's CUDA Zcash miner</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead LI": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-4",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Zcrypt.live",
+          "text": "<h3></h3><h3>Hush Coin pool, Zcash pool, Zclassic pool and Zencash pool.&nbsp;</h3><ol><li>There is no need to submit identification to this site in hopes that it will remain safe. Your <b>Wallet address is enough</b>.</li><li>We have lowered the rates of normal pool fees starting September 1st 2017 pool fees will be <b>0.75%</b></li><li>The<b> PROP </b>payout system assures that miners that work get paid for their efforts in mining the block.</li><li>True this pool is not as big as some pools, which means that payouts will be longer apart and of greater value. <b>Patience is the key.</b></li></ol>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"http://zcrypt.live/getting_started\" data-toolbar=\"-mbrBtnMove\">Getting Started</a>"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Website Creator Title",
+        "meta_descr": "Website Creator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            ".navbar-toggler": {
+              "color": "#a4bcb6"
+            },
+            ".link, .dropdown-item": {
+              "color": "#a4bcb6",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#a4bcb6",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#a4bcb6"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-2",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1.1",
+            "fontName": {
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
+            },
+            "fontColor": "#a4bcb6",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/load.gif",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://zcrypt.live",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://zcrypt.live\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zcrypt.live (old version)</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/getting_started\" aria-expanded=\"false\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>Getting started</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/stats\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Zcrypt Global Stats</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/workers\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Workers Stats</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/payments\" aria-expanded=\"false\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>Payments</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/api\" aria-expanded=\"false\"><span class=\"mbri-code mbr-iconfont mbr-iconfont-btn\"></span>Json  API</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\" &lt;meta name=&quot;google-site-verification&quot; content=&quot;0l4ziEc8RDfUz47zT6I-ntBgdzeUophWu-y9iJZ4daQ&quot; /&gt;     &lt;meta charset=&quot;utf-8&quot;&gt;     &lt;meta property=&quot;og:url&quot; content=&quot;http://zcrypt.live&quot;/&gt;     &lt;meta property=&quot;og:title&quot; content=&quot;Zcrypt Mining Pool&quot;/&gt;     &lt;meta property=&quot;og:image&quot; content=&quot;http://zcrypt.live/static/download.png&quot;/&gt;     &lt;meta property=&quot;og:description&quot; content=&quot;Mining Pool open for ZEC, ZCL, ZEN, KMD and HUSH.&quot;     &lt;meta property=&quot;fb:app_id&quot; content=&quot;966242223397117&quot; /&gt;\">Worker Stats</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-3",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright Zcrypt.live"
+        }
+      ]
+    }
+  }
+}
