@@ -134,7 +134,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://zcrypt.live\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zcrypt.live (old version)</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://zcrypt.live\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zcrypt.live (click to Goto Pool)</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/getting_started\" aria-expanded=\"false\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>Getting started</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/stats\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Zcrypt Global Stats</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/workers\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Workers Stats</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/payments\" aria-expanded=\"false\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>Payments</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/api\" aria-expanded=\"false\"><span class=\"mbri-code mbr-iconfont mbr-iconfont-btn\"></span>Json  API</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\" &lt;meta name=&quot;google-site-verification&quot; content=&quot;0l4ziEc8RDfUz47zT6I-ntBgdzeUophWu-y9iJZ4daQ&quot; /&gt;     &lt;meta charset=&quot;utf-8&quot;&gt;     &lt;meta property=&quot;og:url&quot; content=&quot;http://zcrypt.live&quot;/&gt;     &lt;meta property=&quot;og:title&quot; content=&quot;Zcrypt Mining Pool&quot;/&gt;     &lt;meta property=&quot;og:image&quot; content=&quot;http://zcrypt.live/static/download.png&quot;/&gt;     &lt;meta property=&quot;og:description&quot; content=&quot;Mining Pool open for ZEC, ZCL, ZEN, KMD and HUSH.&quot;     &lt;meta property=&quot;fb:app_id&quot; content=&quot;966242223397117&quot; /&gt;\">Worker Stats</a></li>"
         },
         {
@@ -200,70 +200,6 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-lead": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider2",
-          "_params": {
-            "autoplay": true,
-            "timeout": 5,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1484.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "IMAGE SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "BACKGROUND VIDEO",
-                "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "bgColor": "#41a85f",
-            "showBullets": true
-          },
-          "_anchor": "slider2-7"
-        },
-        {
           "_inherit": "msg-box8",
           "_styles": {
             ".mbr-section-title, p": {
@@ -317,7 +253,7 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1500.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -431,7 +367,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://zcrypt.live\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zcrypt.live (old version)</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://zcrypt.live\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zcrypt.live (click to Goto Pool)</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/getting_started\" aria-expanded=\"false\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>Getting started</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/stats\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Zcrypt Global Stats</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/workers\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Workers Stats</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/payments\" aria-expanded=\"false\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>Payments</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/api\" aria-expanded=\"false\"><span class=\"mbri-code mbr-iconfont mbr-iconfont-btn\"></span>Json  API</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\" &lt;meta name=&quot;google-site-verification&quot; content=&quot;0l4ziEc8RDfUz47zT6I-ntBgdzeUophWu-y9iJZ4daQ&quot; /&gt;     &lt;meta charset=&quot;utf-8&quot;&gt;     &lt;meta property=&quot;og:url&quot; content=&quot;http://zcrypt.live&quot;/&gt;     &lt;meta property=&quot;og:title&quot; content=&quot;Zcrypt Mining Pool&quot;/&gt;     &lt;meta property=&quot;og:image&quot; content=&quot;http://zcrypt.live/static/download.png&quot;/&gt;     &lt;meta property=&quot;og:description&quot; content=&quot;Mining Pool open for ZEC, ZCL, ZEN, KMD and HUSH.&quot;     &lt;meta property=&quot;fb:app_id&quot; content=&quot;966242223397117&quot; /&gt;\">Worker Stats</a></li>"
         },
         {
