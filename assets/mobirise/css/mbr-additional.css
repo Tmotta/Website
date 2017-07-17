@@ -1,7 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -425,13 +427,14 @@ h6,
 #menu-0 .navbar-caption {
   color: #ffffff;
   font-size: 36px;
+  font-family: 'Slabo 27px', serif;
 }
 #menu-0 .navbar-toggler {
-  color: #3d8eb9;
+  color: #ffffff;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #3d8eb9;
+  color: #ffffff;
   font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-0 .link {
@@ -464,7 +467,7 @@ h6,
   background: #0c5e08;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #3d8eb9;
+  color: #ffffff;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -486,7 +489,7 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #3d8eb9;
+  background-color: #ffffff;
 }
 #footer1-2 P {
   text-align: right;
@@ -497,6 +500,10 @@ h6,
 #header4-0 .mbr-section-title {
   text-align: left;
 }
+#slider2-7 .mbr-section-title,
+#slider2-7 .mbr-section-lead {
+  color: #fff;
+}
 #msg-box3-4 .mbr-section-title,
 #msg-box3-4 p {
   color: #000;
@@ -504,6 +511,11 @@ h6,
 #msg-box3-4 .lead LI {
   text-align: center;
 }
+#social-buttons2-6 .mbr-section-title,
+#social-buttons2-6 .btn-social {
+  color: #232323;
+}
+
 
 #menu-2 .hide-buttons .nav-btn {
   display: none !important;
@@ -511,13 +523,14 @@ h6,
 #menu-2 .navbar-caption {
   color: #ffffff;
   font-size: 36px;
+  font-family: 'Slabo 27px', serif;
 }
 #menu-2 .navbar-toggler {
-  color: #3d8eb9;
+  color: #ffffff;
 }
 #menu-2 .link,
 #menu-2 .dropdown-item {
-  color: #3d8eb9;
+  color: #ffffff;
   font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-2 .link {
@@ -550,7 +563,7 @@ h6,
   background: #0c5e08;
 }
 #menu-2 .bg-color.transparent .link {
-  color: #3d8eb9;
+  color: #ffffff;
   transition: none;
 }
 #menu-2 .bg-color.transparent.opened .link {
@@ -572,7 +585,7 @@ h6,
 }
 #menu-2 .close-icon::before,
 #menu-2 .close-icon::after {
-  background-color: #3d8eb9;
+  background-color: #ffffff;
 }
 #footer1-3 P {
   text-align: right;
