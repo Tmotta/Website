@@ -8,6 +8,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -506,6 +507,29 @@ h6,
 }
 #msg-box3-4 .lead LI {
   text-align: center;
+}
+#msg-box3-4 .lead PRE {
+  text-align: left;
+  font-size: 12px;
+}
+#msg-box3-4 .lead H3 {
+  font-size: 20px;
+}
+#msg-box7-f .mbr-section-title,
+#msg-box7-f .lead p {
+  color: #fff;
+}
+#msg-box7-f P {
+  text-align: left;
+  font-size: 17px;
+}
+#msg-box7-f B {
+  font-size: 11px;
+  text-align: left;
+  font-family: 'Slabo 27px', serif;
+}
+#msg-box7-f I {
+  font-size: 12px;
 }
 #social-buttons2-6 .mbr-section-title,
 #social-buttons2-6 .btn-social {
