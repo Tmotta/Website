@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "intro.html",
     "name": "Zcrypt.live",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
     "noImageResize": ""
   },
   "pages": {
-    "index.html": {
+    "intro.html": {
       "settings": {
         "main": true,
         "title": "Zcrypt.live",
@@ -112,10 +112,10 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
-            "sticky": false,
+            "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": true
           },
           "logo": {
