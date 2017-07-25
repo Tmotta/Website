@@ -115,7 +115,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": false,
+            "collapsed": true,
             "hideButtons": true
           },
           "logo": {
@@ -137,8 +137,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://zcrypt.live\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zcrypt.live&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/getting_started\" aria-expanded=\"false\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>Getting Started</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/stats\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Global&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/workers\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Workers&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/payments\" aria-expanded=\"false\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>Payments</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/api\" aria-expanded=\"false\"><span class=\"mbri-code mbr-iconfont mbr-iconfont-btn\"></span>API</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\" &lt;meta name=&quot;google-site-verification&quot; content=&quot;0l4ziEc8RDfUz47zT6I-ntBgdzeUophWu-y9iJZ4daQ&quot; /&gt;     &lt;meta charset=&quot;utf-8&quot;&gt;     &lt;meta property=&quot;og:url&quot; content=&quot;http://zcrypt.live&quot;/&gt;     &lt;meta property=&quot;og:title&quot; content=&quot;Zcrypt Mining Pool&quot;/&gt;     &lt;meta property=&quot;og:image&quot; content=&quot;http://zcrypt.live/static/download.png&quot;/&gt;     &lt;meta property=&quot;og:description&quot; content=&quot;Mining Pool open for ZEC, ZCL, ZEN, KMD and HUSH.&quot;     &lt;meta property=&quot;fb:app_id&quot; content=&quot;966242223397117&quot; /&gt;\">Worker Stats</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zcrypt.live&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://zcrypt.live/stats\" aria-expanded=\"false\"><span class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-btn\"></span>Global&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\" &lt;meta name=&quot;google-site-verification&quot; content=&quot;0l4ziEc8RDfUz47zT6I-ntBgdzeUophWu-y9iJZ4daQ&quot; /&gt;     &lt;meta charset=&quot;utf-8&quot;&gt;     &lt;meta property=&quot;og:url&quot; content=&quot;http://zcrypt.live&quot;/&gt;     &lt;meta property=&quot;og:title&quot; content=&quot;Zcrypt Mining Pool&quot;/&gt;     &lt;meta property=&quot;og:image&quot; content=&quot;http://zcrypt.live/static/download.png&quot;/&gt;     &lt;meta property=&quot;og:description&quot; content=&quot;Mining Pool open for ZEC, ZCL, ZEN, KMD and HUSH.&quot;     &lt;meta property=&quot;fb:app_id&quot; content=&quot;966242223397117&quot; /&gt;\">Worker Stats</a></li>"
         },
         {
           "_name": "footer1",
@@ -174,6 +174,10 @@
             },
             ".mbr-section-title": {
               "text-align": "left"
+            },
+            ".mbr-section-lead B": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_anchor": "header4-0",
@@ -199,8 +203,8 @@
             "showButtons": false
           },
           "title": "",
-          "text": "<b>Zcrypt.live - Featuring Hush, Zcash, Zclassic and Zencash pools.<br></b><br><b>0.75% </b>pool maintenance fee&nbsp;<b>- Starting September 1st.</b><br><br><b>No registration required.</b> Your wallet address is your ID.<br><br><b>Secure your miners. SSL ports available for each coin.</b><br><br><b>PROP share payouts</b>...<i>The longer you stay the better it pays</i>.<br><br><b>Balances of 0.1+ tiggered every 60 minutes.</b> <br><br><b>On average block payout occur around 140 confirms.</b> 1<i>00 confirms to protect from orphaned blocks and double spending attacks. 30 confirms for sheilding to Secure payout is processed through z_address + about 10 confirms for payout timer to trigger payout.</i><br><i><br></i><b>Compatibale Miner Software:</b><br><b>Claymore</b><br><b>EWBF</b><br><b>Optiminer</b><br><b>Links below:<br></b><b><br></b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://bitcointalk.org/index.php?topic=1670733.0\" data-toolbar=\"-mbrBtnMove\">Claymore 12.5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://bitcointalk.org/index.php?topic=1707546.0\" data-toolbar=\"-mbrBtnMove\">EWBF's CUDA Zcash miner</a> "
+          "text": "<b>Zcrypt.live - Featuring Hush, Zcash, Zclassic and Zencash pools.<br></b><br><b>0.75% </b>pool maintenance fee&nbsp;<b>- Starting September 1st.</b><br><br><b>No registration required.</b> Your wallet address is your ID.<br><br><b>Secure your miners. SSL ports available for each coin.</b><br><br><b>PROP share payouts</b>...<i>The longer you stay the better it pays</i>.<br><br><b>Balances of 0.1+ tiggered every 60 minutes.</b> <br><br><b>On average block payout occur around 140 confirms.</b> 1<i>00 confirms to protect from orphaned blocks and double spending attacks. 30 confirms for sheilding to Secure payout is processed through z_address + about 10 confirms for payout timer to trigger payout.</i><br><i><br></i><b>Compatibale Miner Software:</b><br><b>Links at bottom</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://bitcointalk.org/index.php?topic=1670733.0\" data-toolbar=\"-mbrBtnMove\">Claymore 12.5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://bitcointalk.org/index.php?topic=1707546.0\" data-toolbar=\"-mbrBtnMove\">EWBF's CUDA Zcash miner</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://github.com/Optiminer/OptiminerZcash\" data-toolbar=\"-mbrBtnMove\">Optimer Zcash 1.7.0</a>"
         },
         {
           "_inherit": "msg-box8",
@@ -209,7 +213,8 @@
               "color": "#000"
             },
             ".lead LI": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "20px"
             },
             ".lead PRE": {
               "text-align": "left",
@@ -260,12 +265,14 @@
             "B": {
               "font-size": "11px",
               "text-align": "left",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             "I": {
               "font-size": "12px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             "H3": {
               "color": "#ffffff"
@@ -277,7 +284,7 @@
           "_name": "msg-box7",
           "_anchor": "msg-box7-f",
           "_params": {
-            "imageSize": "30",
+            "imageSize": "34",
             "paddingTop": "3",
             "paddingBottom": "3",
             "parallax": true,
@@ -297,7 +304,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -317,8 +324,8 @@
               "size": 250
             }
           },
-          "title": "Ready to get started.",
-          "text": "This is an Example of Claymore 12.5 connecting to Zcrypt.live mining pool on SSL port: 3131. Remember to put your wallet address in correctly, invalid addresses will not get paid..<br><br><b><i>&nbsp;ZecMiner64.exe -zpool stratum+tls://zcrypt.live:3131 -zwal t1PtynTQz6DtBB3fKCLvjfobE8ZehQgq9PT.Claymore -zpsw x</i></b><br><b><i><br></i></b><br>Thi is an Example of EWBF 0.3.4b on port:3031 (Non SSL port) remember to change ports for SSL second port listed on each coin is the SSL port.<br><br><b>miner --server zcrypt.live --user&nbsp;t1PtynTQz6DtBB3fKCLvjfobE8ZehQgq9PT&nbsp;--pass x --port 3031 --cuda_devices 0 1 2 3</b><br><b><i><br></i></b>",
+          "title": "Examples of start.bat&nbsp;",
+          "text": "Remember to put your wallet address in correctly, Invalid addresses will not get paid..<br><br>This is an Example of Claymore 12.5 connecting to Zcrypt.live mining pool on SSL port: 3131.&nbsp;<br><br><b><i>&nbsp;ZecMiner64.exe -zpool stratum+tls://zcrypt.live:3131 -zwal t1PtynTQz6DtBB3fKCLvjfobE8ZehQgq9PT.Claymore -zpsw x</i></b><br><b><i><br></i></b><br>Thi is an Example of EWBF 0.3.4b on port:3031 (Non SSL port) remember to change ports for SSL second port listed on each coin is the SSL port.<br><br><b>miner --server zcrypt.live --user&nbsp;t1PtynTQz6DtBB3fKCLvjfobE8ZehQgq9PT&nbsp;--pass x --port 3031 --cuda_devices 0 1 2 3</b><br><b><i><br></i></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://zcrypt.live/getting_started\" data-toolbar=\"-mbrBtnMove\">Coin Ports found in Left menu Here</a>   "
         },
         {
@@ -347,7 +354,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#3d8eb9"
           },
-          "text": "FOLLOW Zcrypt.live<br>Mining pool",
+          "text": "FOLLOW <br>Zcrypt.live<br>Mining pool",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/groups/238435589980466/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         "
         }
       ]
