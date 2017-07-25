@@ -196,11 +196,11 @@
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "title": "",
-          "text": "<b>Zcrypt.live - Featuring Hush, Zcash, Zclassic and Zencash pools.<br></b><br><b>0.75% </b>pool maintenance fee&nbsp;<b>- Starting September 1st.</b><br><br><b>No registration required.</b> Your wallet address is your ID.<br><br><b>Secure your miners. SSL ports available for each coin.</b><br><br><b>PROP share payouts</b>...<i>The longer you stay the better it pays</i>.<br><br><b>Balances of 0.1+ tiggered every 60 minutes.</b> <br><br><b>On average block payout occur around 140 confirms.</b> 1<i>00 confirms to protect from orphaned blocks and double spending attacks. 30 confirms for sheilding to Secure payout is processed through z_address + about 10 confirms for payout timer to trigger payout.</i><br><i><br></i><b>Compatibale Miner Software:</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://bitcointalk.org/index.php?topic=1670733.0\" data-toolbar=\"-mbrBtnMove\">Claymore 12.5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://bitcointalk.org/index.php?topic=1707546.0\" data-toolbar=\"-mbrBtnMove\">EWBF's CUDA Zcash miner</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://github.com/Optiminer/OptiminerZcash\" data-toolbar=\"-mbrBtnMove\">Optimer Zcash 1.7.0</a>"
+          "text": "<b>Zcrypt.live - Featuring Hush, Zcash, Zclassic and Zencash pools.<br></b><br><b>0.75% </b>pool maintenance fee&nbsp;<b>- Starting September 1st.</b><br><br><b>No registration required.</b> Your wallet address is your ID.<br><br><b>Secure your miners. SSL ports available for each coin.</b><br><br><b>PROP share payouts</b>...<i>The longer you stay the better it pays</i>.<br><br><b>Balances of 0.1+ tiggered every 60 minutes.</b> <br><br><b>On average block payout occur around 140 confirms.</b> 1<i>00 confirms to protect from orphaned blocks and double spending attacks. 30 confirms for sheilding to Secure payout is processed through z_address + about 10 confirms for payout timer to trigger payout.</i><br><i><br></i><b>Compatibale Miner Software:</b><br><b>Claymore</b><br><b>EWBF</b><br><b>Optiminer</b><br><b>Links below:<br></b><b><br></b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://bitcointalk.org/index.php?topic=1670733.0\" data-toolbar=\"-mbrBtnMove\">Claymore 12.5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://bitcointalk.org/index.php?topic=1707546.0\" data-toolbar=\"-mbrBtnMove\">EWBF's CUDA Zcash miner</a> "
         },
         {
           "_inherit": "msg-box8",
