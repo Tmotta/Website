@@ -304,7 +304,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -326,7 +326,7 @@
           },
           "title": "Examples of start.bat&nbsp;",
           "text": "Remember to put your wallet address in correctly, Invalid addresses will not get paid..<br><br>This is an Example of Claymore 12.5 connecting to Zcrypt.live mining pool on SSL port: 3131.&nbsp;<br><br><b><i>&nbsp;ZecMiner64.exe -zpool stratum+tls://zcrypt.live:3131 -zwal t1PtynTQz6DtBB3fKCLvjfobE8ZehQgq9PT.Claymore -zpsw x</i></b><br><b><i><br></i></b><br>Thi is an Example of EWBF 0.3.4b on port:3031 (Non SSL port) remember to change ports for SSL second port listed on each coin is the SSL port.<br><br><b>miner --server zcrypt.live --user&nbsp;t1PtynTQz6DtBB3fKCLvjfobE8ZehQgq9PT&nbsp;--pass x --port 3031 --cuda_devices 0 1 2 3</b><br><b><i><br></i></b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://zcrypt.live/getting_started\" data-toolbar=\"-mbrBtnMove\">Coin Ports found in Left menu Here</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://github.com/Tmotta/Claymore_Auto_Start/blob/master/.Bat\" data-toolbar=\"-mbrBtnMove\">Claymore Miner Auto_Restart.bat</a>   "
         },
         {
           "_styles": {
